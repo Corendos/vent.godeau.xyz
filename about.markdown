@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the blog and personal website of Corentin Godeau.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I work at [Streamroot](https://streamroot.io/), a former startup acquired by [Lumen Technologies](https://www.lumen.com/en-us/home.html).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm really into understanding how things work to the deepest level, as I personally believe this is the only way for a software engineer to be able to produce high quality software. I think that reinventing the wheel is sometimes a necessity and I value craftsmanship.
