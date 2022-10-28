@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+{% imagesize /assets/me.jpg:img?height=300 %}
+
 This is the blog and personal website of Corentin Godeau.
 
 I work at [Streamroot](https://streamroot.io/), a former startup acquired by [Lumen Technologies](https://www.lumen.com/en-us/home.html).
